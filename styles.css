@@ -71,7 +71,7 @@ li {
   height: 300px;
   object-fit: cover;
   border-radius: 10px 10px 0 0;
-  gap: 
+ 
   }
   .project-text{
     height: 50px;
@@ -80,6 +80,10 @@ li {
     border-color: white;
     border-radius: 0 0 10px 10px;
     color: rgb(202, 210, 197);
+    margin-top: -5px; 
+    text-align: center;
+    font-size: 1.4em;
+    padding: 12px;
   }
   .button {
     display: block;
